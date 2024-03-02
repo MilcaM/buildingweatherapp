@@ -47,9 +47,7 @@ body {
         color: rgba(0, 0, 0, 0.6);
       }
 
-      .weather-forecast { display: flex;
-        justify-content: space-between;}
-
+      
         .weather-app-city {
           margin: 0;
           font-size: 38px;
@@ -63,13 +61,14 @@ body {
           font-weight: 500;
         }
         
-        .weather-app-details strong {
-          color: #f65282;
-        }
+        .weather-app-details strong {color: #ffaefa;}
         .weather-app-container {  display: flex;}
 
         .weather-app-unit {
           margin-top: 16px;
           font-size: 28px;
         }
-        
+        .weather-forecast {
+          display: flex;
+          justify-content: space-between;
+        }
