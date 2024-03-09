@@ -46,29 +46,3 @@ body {
         font-size: 14px;
         color: rgba(0, 0, 0, 0.6);
       }
-
-      
-        .weather-app-city {
-          margin: 0;
-          font-size: 38px;
-          line-height: 48px;
-        }
-        
-        .weather-app-details {
-          font-size: 16px;
-          color: rgba(39, 33, 66, 0.4);
-          line-height: 24px;
-          font-weight: 500;
-        }
-        
-        .weather-app-details strong {color: #ffaefa;}
-        .weather-app-container {  display: flex;}
-
-        .weather-app-unit {
-          margin-top: 16px;
-          font-size: 28px;
-        }
-        .weather-forecast {
-          display: flex;
-          justify-content: space-between;
-        }
